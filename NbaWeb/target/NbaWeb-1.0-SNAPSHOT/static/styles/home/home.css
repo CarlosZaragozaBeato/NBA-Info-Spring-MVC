@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 3 mar. 2023, 18:05:27
+    Author     : carlo
+*/
+
+
+main{
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--black);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+main  a{
+    max-width: 600px;
+    width: 50%;
+    opacity: 0.7;
+    transition: all 150ms linear;
+}
+main a img{
+    width: 100%;
+}
+main a:hover {
+    opacity: 1;
+}

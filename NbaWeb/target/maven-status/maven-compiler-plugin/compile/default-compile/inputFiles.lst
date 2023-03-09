@@ -1,0 +1,13 @@
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/repository/JugadorDao.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/controller/PartidosController.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/modelo/Jugador.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/repository/PartidoDao.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/dao/PartidoImplementacionDao.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/dao/JugadorImplementacionDao.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/repository/EquipoDao.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/modelo/Equipo.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/dao/EquipoImplementacionDao.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/controller/JugadorController.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/controller/FrontController.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/controller/EquiposController.java
+/home/usumaniana/Descargas/ZaragozaBeato_FranciscoCarlos_proyectoFinal/NbaWeb/src/main/java/com/carloszaragoza/nbaweb/modelo/Partido.java
